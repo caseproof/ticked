@@ -1,0 +1,17 @@
+= Tick
+Simple, email based ticketing system built on RoR.
+
+= Installation
+
+= Examples
+
+= Version history
+
+- Version 0.0.1
+  - Building this thing up
+
+= Contact and copyright
+
+Bug report? Faulty/incomplete documentation? Feature request? Please post an issue on 'http://github.com/Caseproof/tick/issues'. If its urgent, please contact me from my website at 'http://blairwilliams.com/contact'
+
+Copyright (c) 2004-2011 Caseproof, LLC, released under the MIT license
